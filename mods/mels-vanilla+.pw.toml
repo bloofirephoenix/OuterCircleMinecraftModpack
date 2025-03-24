@@ -1,0 +1,13 @@
+name = "Mel's Vanilla+"
+filename = "1.21.1 Mel's Vanilla+ v1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3BhcWEDV/versions/MppupyTZ/1.21.1%20Mel%27s%20Vanilla%2B%20v1.2.jar"
+hash-format = "sha512"
+hash = "1de816ca8483c21e4d630a94b68e0e10323dc6328aef862362badbd549a9cbd46e7695730c84eb93bbc67f5055cbe7c0b4cfd0cbac34f57fbd653ced57cf8dc2"
+
+[update]
+[update.modrinth]
+mod-id = "3BhcWEDV"
+version = "MppupyTZ"
