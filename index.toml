@@ -168,6 +168,11 @@ hash = "d69cce2eb6f7a7302dd16c718ce8e44a16b8800f731c7a0ef999f64ab3ac34b2"
 metafile = true
 
 [[files]]
+file = "mods/plushie.pw.toml"
+hash = "0a34492da40afdcd5c1a53b4c5bf6f296532762fe365f5df8d3f26dbcc4f47a9"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "35ecf5a8ecf2d7b1a2b79f5d24a093e21d23f12486dcd71689894758d2fbe832"
 metafile = true
