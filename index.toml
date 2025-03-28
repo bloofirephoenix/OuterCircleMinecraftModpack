@@ -88,6 +88,11 @@ hash = "ec83351ff8e3ed9c085370cb1d6844dda99f24ad271ffc4b07beba5fe7c836cc"
 metafile = true
 
 [[files]]
+file = "mods/create-sound-of-steam.pw.toml"
+hash = "aab89d94db8f5384fd96fa0b21955fce418e4c372ab4fe59c83984f76ab4f77b"
+metafile = true
+
+[[files]]
 file = "mods/create-ultimate-factory.pw.toml"
 hash = "391f875058b29709daf39840494db640bfe7a35262f45b81689df8af350cba82"
 metafile = true

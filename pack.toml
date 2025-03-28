@@ -1,13 +1,13 @@
 name = "Outer Circle Minecraft Modpack"
 author = "bluefirephoenix"
-version = "1.0.0-beta.1"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "13de48e55edecc1454d58ee50e7cbffdc52c64789efe08159785d40c6320fd83"
+hash = "0efade989568e6fcdfd2570fa1678e7db0be5c89901a071a31ee5943a7cf8368"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.138"
+neoforge = "21.1.139"
