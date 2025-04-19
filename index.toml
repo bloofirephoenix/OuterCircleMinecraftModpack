@@ -5,10 +5,6 @@ file = "config/Advancedperipherals/peripherals.toml"
 hash = "2df06d0c2c4e405203e74a0cb03bd3f892771a3e826b547b079fbc815cb6d2a7"
 
 [[files]]
-file = "config/snowrealmagic-common.yaml"
-hash = "d2d70f54e650c71201c4ae4b104adf20bc68c62db770c6eb3cb77e11a3b27e88"
-
-[[files]]
 file = "config/supplementaries-client.toml"
 hash = "893887a25311be1421972ff91bdcb5b9e2c1d2ada16856788e7470b103c57946"
 
@@ -195,11 +191,6 @@ metafile = true
 [[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "73b1e4f6608fcd396acc3e4e7aa753d314c8810ef4caf831ed93d9932d93f896"
-metafile = true
-
-[[files]]
-file = "mods/snow-real-magic.pw.toml"
-hash = "f78a95032cccb7050ac402f875b9d0a6176a81fafd0eaa293a30c2f7d26e07ee"
 metafile = true
 
 [[files]]
