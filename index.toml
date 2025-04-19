@@ -10,7 +10,7 @@ hash = "893887a25311be1421972ff91bdcb5b9e2c1d2ada16856788e7470b103c57946"
 
 [[files]]
 file = "mods/adorn.pw.toml"
-hash = "ef9bf76e6e39576898d05b7858b6f3dd3e1847e7cc23fffdfd72f18de1d7fc51"
+hash = "8adf4d915ba934600a112113b9bfcb36a571d14e52872c6c93c015351bb1bf34"
 metafile = true
 
 [[files]]
@@ -20,7 +20,7 @@ metafile = true
 
 [[files]]
 file = "mods/aether.pw.toml"
-hash = "37a6ac409f7074355d52d7042bcea937250d2ebeccf31614345b0d4119decac2"
+hash = "5e62bb12eb55e4575d1ca5e3570b5cc18473138973c80ac7093e61e459339db1"
 metafile = true
 
 [[files]]
@@ -50,7 +50,7 @@ metafile = true
 
 [[files]]
 file = "mods/blocks-you-need.pw.toml"
-hash = "0ac0167977aaa875c63b334d51dac397e831ed103f0283dc06932c84665dadf2"
+hash = "eca10015ace8ce267e74583d9c73b1d50326194ce56f22baa9798a48c20d85be"
 metafile = true
 
 [[files]]
@@ -70,12 +70,12 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "e94bd41a54a72723e283df0c6a870c7baef0fa38ee9099842470f9fd10fc7e70"
+hash = "3c77cfac6baca0b34f29f071d47aed281cf0a27c5284145fff9b1461c24e26f8"
 metafile = true
 
 [[files]]
 file = "mods/create-framed.pw.toml"
-hash = "32b2a01389391c0154b5c6e2e6c4509cca4b28562822b060d3119c137056e10d"
+hash = "8acd0b01430d2bd713976ddda8d7b963877350ab6930dc6da8c5168720dfe3ab"
 metafile = true
 
 [[files]]
@@ -85,7 +85,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-sound-of-steam.pw.toml"
-hash = "aab89d94db8f5384fd96fa0b21955fce418e4c372ab4fe59c83984f76ab4f77b"
+hash = "51e59d0e689bd663de7b3ca38c53aea8664db9707f0814ac0f77d35584e08244"
 metafile = true
 
 [[files]]
@@ -100,7 +100,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "f97e25bcf1002592151ad4d11283f5f36903b68c758093a874db7c22e846e1e5"
+hash = "665ac754693e58a2422621f24160b217c43540962b7d59cc9ff6e3e75cf9765e"
 metafile = true
 
 [[files]]
@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/kiwi.pw.toml"
-hash = "477a28dc7a42bc4ffdfa2107301cbbc2e186615958ce79a1ca12b008efb4487b"
+hash = "53d3a025df54cea0227d74a38ba980c160568a29806c0996217b1712979ef679"
 metafile = true
 
 [[files]]
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "d79c6acf7b4646175124345daae6f3fd000e362bb89724e5b8ed1b5b1e18b6f1"
+hash = "32132e1480d1a62a8709c107779fd335cd0d3e03e1a2be9e0e9bfb0e2a02ee5f"
 metafile = true
 
 [[files]]
@@ -155,12 +155,12 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "0311ca22213f4a9c8fb943619271944d3ffedf7a17f098e8c0f8fad8f897d700"
+hash = "b30bf3e10fdb43cb451091d4cc8ff88081895686c492c1bbff50ce0c74a3e85b"
 metafile = true
 
 [[files]]
 file = "mods/plushables.pw.toml"
-hash = "d69cce2eb6f7a7302dd16c718ce8e44a16b8800f731c7a0ef999f64ab3ac34b2"
+hash = "31304da6bc75d8170748869a01703a14ee35ec3305768ac8eb8aa218e3c20f88"
 metafile = true
 
 [[files]]
@@ -180,12 +180,12 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "53b7873e229f9ffd722c84a3e277af26e10ed774d59f459c6e052db771c9620b"
+hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
 
 [[files]]
 file = "mods/scholar.pw.toml"
-hash = "89e350eb70477fa77774b85c6ace5f741dd0c2ae2faf69bc5892f5bccfc6ed1e"
+hash = "264eb487a043d54a75020d2e48a4f2c3732af5438dd58cfa2fcea6daa5d94788"
 metafile = true
 
 [[files]]
@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "17ffede678924aa27782eb98ea984220e3973f2b78d581b417b8471f1a3168b0"
+hash = "90956e69d35ea7658d5a674b68662f51b09ba11596877170e5c01b2aaa3dcd49"
 metafile = true
 
 [[files]]
@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "83022f67e08b0212916f8a96a8d6d62791162304fdbb7851b27ccef45bf7b696"
+hash = "f2d9286139e05647fa4f44a44f242941f64b79ea298a82cc1d0975e3ed97e349"
 metafile = true
 
 [[files]]

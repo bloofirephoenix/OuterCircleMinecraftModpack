@@ -1,13 +1,13 @@
 name = "Blocks You Need"
-filename = "blocksyouneed_luna-1.8.2-neoforge-1.21.1.jar"
+filename = "blocksyouneed_luna-1.9-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lIyS5pGh/versions/yh2DHmmk/blocksyouneed_luna-1.8.2-neoforge-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/lIyS5pGh/versions/PZrnGIOx/blocksyouneed_luna-1.9-neoforge-1.21.1.jar"
 hash-format = "sha512"
-hash = "665e386405e9b707dbd38867fa41b80384dba13db0623696bdf55afcf69eab7d136594347767ac9189569fcc9074669c941dac608dbd1f1493cf5eb03e23bbb0"
+hash = "775af443918729ac6a4669d8fe5c7dc6f962bfc1a41587ffcc2925f308e835c308d32cfbe7da9b906753fe65e7e02415ae367e65f9d6f81d1b9ee17a888b939b"
 
 [update]
 [update.modrinth]
 mod-id = "lIyS5pGh"
-version = "yh2DHmmk"
+version = "PZrnGIOx"
