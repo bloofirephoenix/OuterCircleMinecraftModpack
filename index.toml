@@ -154,6 +154,11 @@ hash = "8b041aed68ea4b1e60100c865fd6510f18b0aa5efea7cc3cb1faab2bbe926ae1"
 metafile = true
 
 [[files]]
+file = "mods/no-enderman-grief.pw.toml"
+hash = "3349a217141d1587f6ef03baf8cdd106ada041a8fce0972f1955781b320c0a33"
+metafile = true
+
+[[files]]
 file = "mods/no-hostiles-around-campfire.pw.toml"
 hash = "d8fef6507b7903b4373514e21dae1c2ffeea09ec928ca7481397a67b840d39ec"
 metafile = true
