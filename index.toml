@@ -75,7 +75,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-framed.pw.toml"
-hash = "8acd0b01430d2bd713976ddda8d7b963877350ab6930dc6da8c5168720dfe3ab"
+hash = "bed535a9a5636585ef25b31038ebdb6cad1967e4f1e1de8bcb773bc6c569ad2a"
 metafile = true
 
 [[files]]
@@ -100,7 +100,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "665ac754693e58a2422621f24160b217c43540962b7d59cc9ff6e3e75cf9765e"
+hash = "7bebff0ec65bcef0fc44358719d3b9ccc6e0d658ea49c07b24c3d9416e4576f2"
 metafile = true
 
 [[files]]
@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/kiwi.pw.toml"
-hash = "53d3a025df54cea0227d74a38ba980c160568a29806c0996217b1712979ef679"
+hash = "817b1ab6014dc039d8bdd24a463f19ab6d341756f7d4274abcb111582620747e"
 metafile = true
 
 [[files]]
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "32132e1480d1a62a8709c107779fd335cd0d3e03e1a2be9e0e9bfb0e2a02ee5f"
+hash = "87e3acd7d3cdda6d8c99f26dafd871ba6057b6ca54650b43e6b91939069a91e5"
 metafile = true
 
 [[files]]
@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/moyai.pw.toml"
-hash = "01b28f86410b670582e8494d33950916df0e50b32134ae9e8572bb32b6adba97"
+hash = "8b041aed68ea4b1e60100c865fd6510f18b0aa5efea7cc3cb1faab2bbe926ae1"
 metafile = true
 
 [[files]]
@@ -170,12 +170,12 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "35ecf5a8ecf2d7b1a2b79f5d24a093e21d23f12486dcd71689894758d2fbe832"
+hash = "b27fedf73ce2b829db06bf18fea5afd33f0a001b75465301c7f5bafe7e3c04d8"
 metafile = true
 
 [[files]]
 file = "mods/railroad-blocks.pw.toml"
-hash = "0481228733cfc15bc40d3d5caad6a928e617a2e64c9b3811d03b448c64a9e2c5"
+hash = "0e1ff99cff7f35e7b1f7db002fac3b9d26e0afbcc527de27029048898bef446c"
 metafile = true
 
 [[files]]

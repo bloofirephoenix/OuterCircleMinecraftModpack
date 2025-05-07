@@ -1,13 +1,13 @@
 name = "Railroad Blocks"
-filename = "railroadblocksaddon-neoforge-1.21-0.6.2.jar"
+filename = "railroadblocksaddon-neoforge-1.21-0.6.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sTmgisaB/versions/DqcOkIBg/railroadblocksaddon-neoforge-1.21-0.6.2.jar"
+url = "https://cdn.modrinth.com/data/sTmgisaB/versions/uhZqDeex/railroadblocksaddon-neoforge-1.21-0.6.3.jar"
 hash-format = "sha512"
-hash = "98b65ffbbd6af84d5f156aafa68bb6bc6679441e36d5207c0e91e861a0c0a0f5a563bb6178e6f6acde4c9e649ff6bc31fd5ea4d18408156545a70cbf7a11d75e"
+hash = "b643bb4ead9953e623a62b72effbc0d915ed4686fbe8468a7a24239e2f032cad8f54002d106a76eaa4aa2866a0ef878e8a79f18ccc732efbfd28d2d6074ca220"
 
 [update]
 [update.modrinth]
 mod-id = "sTmgisaB"
-version = "DqcOkIBg"
+version = "uhZqDeex"
